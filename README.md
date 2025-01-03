@@ -1,19 +1,17 @@
 # Hi, I'm Pahan Sanjana 👋  
-### Passionate IT Student | Exploring the Boundless World of Technology
+### Passionate Software Engineer | Building the Future with Code
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pahansanjana&label=Profile%20views&color=0e75b6&style=flat" alt="pahansanjana" /> </p>
 
 ---
 
-🌱 **Currently learning**: Object-Oriented Programming (OOP) with Java  
-🔭 **Currently working on**: A new website  
-🧑‍🎓 **Undergraduate** at **ICBT (Cardiff Metropolitan University)**  
-💬 **Ask me about**: Web Development, OOP, Java  
-📫 **Reach me at**: [pahansanjana6226@gmail.com](mailto:pahansanjana6226@gmail.com)
+🔹 **Undergraduate** in **Software Engineering** at **ICBT (Cardiff Metropolitan University)**  
+💬 **Areas of Expertise**: Web Development, Object-Oriented Programming (OOP), Java  
+📫 **Connect with me**: [pahansanjana6226@gmail.com](mailto:pahansanjana6226@gmail.com)
 
 ---
 
-### 💻 **Languages and Tools**:
+### 🛠️ **Languages & Tools**:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -27,19 +25,20 @@
 
 ---
 
-### 📌 **Projects**:
-- [**Awesome Web App**](https://github.com/pahansanjana/awesome-web-app): A web application that does XYZ.
-- [**Java OOP Tutorial**](https://github.com/pahansanjana/java-oop-tutorial): A simple OOP course written in Java.
+### 📌 **Featured Projects**:
+- [**Awesome Web App**](https://github.com/pahansanjana/awesome-web-app): A dynamic web application that integrates XYZ functionality.
+- [**Java OOP Tutorial**](https://github.com/pahansanjana/java-oop-tutorial): A comprehensive guide to Object-Oriented Programming concepts in Java.
 
 ---
 
-### 🌟 **Achievements**:
-- Contributed to [Awesome Project](https://github.com/awesome/project).
-- Completed **Java OOP course** on Udemy.
+### 🌟 **Notable Achievements**:
+- Contributed to the development of [Awesome Project](https://github.com/awesome/project).
+- Successfully completed the **Java OOP course** on Udemy.
+- Participated in collaborative software engineering projects with a focus on clean code and scalability.
 
 ---
 
-### 📝 **Connect with me**:
+### 📝 **Let's Connect**:
 <p align="center">
   <a href="https://linkedin.com/in/pahan-sanjana-68899330b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pahansanjana" height="30" width="40" /></a>
   <a href="https://fb.com/pahansanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pahansanjana" height="30" width="40" /></a>
@@ -62,10 +61,10 @@
 
 ---
 
-### Fun Fact:
-"I am deeply passionate about coding, viewing it as both a professional endeavor and a personal interest."
+### 💬 **Fun Fact**:
+"I’m deeply passionate about coding, not just as a profession but as a way of life and creative expression."
 
 ---
 
-### 📚 **Quote**:
-*I believe in proactively shaping the future through innovation and action.*
+### 📚 **Inspiring Quote**:
+*“Innovation distinguishes between a leader and a follower.” – Steve Jobs*
