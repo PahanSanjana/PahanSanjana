@@ -8,7 +8,7 @@
 ---
 
 🔹 **Undergraduate** in **Software Engineering** at **ICBT (Cardiff Metropolitan University)**  
-💬 **Areas of Expertise**: Web Development, Object-Oriented Programming (OOP), Java, C#
+💬 **Areas of Expertise**: Web Development, Object-Oriented Programming (OOP), Java, C#,
 📫 **Connect with me**: [pahansanjana6226@gmail.com](mailto:pahansanjana6226@gmail.com)
 
 ---
