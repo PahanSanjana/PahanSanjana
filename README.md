@@ -11,7 +11,7 @@
 💬 **Areas of Expertise**: Web Development, Object-Oriented Programming (OOP), Java, C#, C++  
 📫 **Connect with me**:  
 ✉️ [pahansanjana6226@gmail.com](mailto:pahansanjana6226@gmail.com)  
-🌐 [Visit My Portfolio](https://pahansanjana.github.io/Syntax-Soul/)
+🌐 [Visit My Portfolio](https://pahan-sanjana.netlify.app/)
 
 ---
 
