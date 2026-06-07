@@ -53,11 +53,10 @@
 ---
 
 ### 📊 **GitHub Stats**:
+<h1 align="center">🏆 GitHub Achievements</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PahanSanjana&show_icons=true&theme=radical" width="48%" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PahanSanjana&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
