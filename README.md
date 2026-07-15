@@ -1,6 +1,14 @@
 # Hi, I'm Pahan Sanjana 👋  
 ### Passionate Software Engineer | Building the Future with Code
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PahanSanjana/PahanSanjana/main/assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PahanSanjana/PahanSanjana/main/assets/light.svg">
+    <img src="https://raw.githubusercontent.com/PahanSanjana/PahanSanjana/main/assets/dark.svg" alt="Pahan Sanjana Fernando">
+  </picture>
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=pahansanjana&label=Profile%20views&color=0e75b6&style=flat" alt="pahansanjana" />
 </p>
@@ -60,7 +68,7 @@
 ---
 
 ### 💬 **Fun Fact**:
-"I’m deeply passionate about coding, not just as a profession but as a creative expression."
+"I'm deeply passionate about coding, not just as a profession but as a creative expression."
 
 ---
 
