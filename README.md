@@ -74,3 +74,12 @@
 
 ### 📚 **Inspiring Quote**:
 *"Innovation distinguishes between a leader and a follower." – Steve Jobs*
+
+---
+
+  <p align="center">
+  <img
+    src="https://github.com/PahanSanjana/PahanSanjana/blob/main/assets/github-jet.svg"
+    width="100%"
+  />
+</p>
