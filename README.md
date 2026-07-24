@@ -79,10 +79,10 @@
 
 <p align="center">
   <a href="https://sanziq.netlify.app/">
-    <img src="https://img.shields.io/badge/Project-Awesome%20Web%20App-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Project-Sanziq%20Web%20App-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://sanziqawrudu2026.netlify.app/">
-    <img src="https://img.shields.io/badge/Project-Java%20OOP%20Tutorial-orange?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Project-Sanziq%20Awrudu%20Web%20App-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
 
