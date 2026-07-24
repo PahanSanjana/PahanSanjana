@@ -78,15 +78,15 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/pahansanjana/awesome-web-app">
+  <a href="https://sanziq.netlify.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pahansanjana&repo=awesome-web-app&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/pahansanjana/java-oop-tutorial">
+  <a href=https://sanziqawrudu2026.netlify.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pahansanjana&repo=java-oop-tutorial&theme=radical&hide_border=true" />
   </a>
 </p>
 
-> 💡 Replace the repo names above with your two strongest, most complete projects — pinned cards only render for **public repos with a README** already in them.
+
 
 ---
 
