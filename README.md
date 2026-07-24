@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pahansanjana&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pahansanjana&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20JavaScript%20%7C%20PHP-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
