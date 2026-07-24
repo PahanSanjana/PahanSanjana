@@ -79,10 +79,10 @@
 
 <p align="center">
   <a href="https://sanziq.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pahansanjana&repo=REPO-NAME-1&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-Awesome%20Web%20App-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://sanziqawrudu2026.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pahansanjana&repo=REPO-NAME-2&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-Java%20OOP%20Tutorial-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
 
