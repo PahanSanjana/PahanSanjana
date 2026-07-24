@@ -64,10 +64,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20JavaScript%20%7C%20PHP-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" />
-</p>
+GitHub Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Top%20Languages-Java%20%7C%20C%2B%2B%20%7C%20JavaScript%20%7C%20PHP-blue?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" /> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=radical&hide_border=true" alt="GitHub Streak" />
