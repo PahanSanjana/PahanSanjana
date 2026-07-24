@@ -472,7 +472,7 @@
         </rect>
       </clipPath>
       <g clip-path="url(#greetClip)">
-        <text x="0" y="0" font-family="'JetBrains Mono',Consolas,monospace" font-size="26" font-weight="700" fill="#F8FAFC">Hi &#128075; I'm Pahan Sanjana</text>
+        <text x="0" y="0" font-family="'JetBrains Mono',Consolas,monospace" font-size="26" font-weight="700" fill="#F8FAFC">Hi ; I'm Pahan Sanjana</text>
       </g>
     </g>
 
