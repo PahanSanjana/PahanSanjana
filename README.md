@@ -74,6 +74,15 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br>
+
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+
+---
 
 ### 📌 Featured Projects
 
@@ -86,9 +95,11 @@
   </a>
 </p>
 
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pahansanjana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 ### 🌟 Achievements & Certifications
 
 - ✅ Completed **Java OOP** course (Udemy)
@@ -107,7 +118,12 @@
 
 <p align="center">
   <img
-    src="https://github.com/PahanSanjana/PahanSanjana/blob/main/assets/github-jet.svg"
+    src="https://raw.githubusercontent.com/PahanSanjana/PahanSanjana/main/assets/github-jet.svg"
     width="100%"
+    alt="GitHub Jet"
   />
 </p>
+
+
+ ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PahanFernando) 
