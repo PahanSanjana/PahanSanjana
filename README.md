@@ -96,10 +96,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pahansanjana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 ### 🌟 Achievements & Certifications
 
 - ✅ Completed **Java OOP** course (Udemy)
