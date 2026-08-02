@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=radical&hide_border=true&timezone=Asia/Colombo&v=2" alt="GitHub Streak" />
 </p>
 
 ---
@@ -81,7 +81,6 @@
   <br>
   <img src="https://github-readme-stats.shion.dev/api?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
-
 ---
 
 ### 📌 Featured Projects
