@@ -61,7 +61,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -69,15 +68,21 @@
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PahanSanjana&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PahanSanjana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=dark&count_private=true&cache_seconds=1800" />
+
+</div>
+
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PahanSanjana&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=dark" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PahanSanjana&theme=github-dark&hide_border=true" />
 </div>
+
+---
 
 ---
 ### 📌 Featured Projects
