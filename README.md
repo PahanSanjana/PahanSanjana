@@ -61,27 +61,21 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20JavaScript%20%7C%20PHP-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PahanSanjana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PahanSanjana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=dark&count_private=true&cache_seconds=1800" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PahanSanjana&theme=github-dark&hide_border=true" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PahanSanjana&theme=github-dark&hide_border=true" width="100%" />
+</p>
 ---
 
 ---
