@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=radical&hide_border=true&timezone=Asia/Colombo&v=2" alt="GitHub Streak" />
+  <img src="assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
