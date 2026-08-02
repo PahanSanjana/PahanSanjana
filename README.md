@@ -68,24 +68,37 @@
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Database%20Development-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PahanSanjana&theme=github_dark" />
-</p>
+<br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PahanSanjana&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PahanSanjana&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PahanSanjana&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 💻 Full-Stack Developer
+- 🌐 Web & Database Development
+- ☕ Java Developer
+- ⚡ JavaScript Enthusiast
+- 🗄️ Database Design & Management
+
+---
+
+### 🛠️ Technologies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PahanSanjana&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PahanSanjana&theme=github_dark&utcOffset=5.5" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,mysql,html,css,git,github,vscode" />
 </p>
+
+---
+
+### 📈 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PahanSanjana&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=PahanSanjana&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 ---
 ### 📌 Featured Projects
 
