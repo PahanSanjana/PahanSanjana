@@ -61,6 +61,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -69,20 +70,14 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=dark&hide_border=false&cache_seconds=3600&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=PahanSanjana&theme=dark&hide_border=true" />
 </p>
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PahanSanjana&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSanjana&layout=compact&theme=dark" />
+</div>
 
 ---
 ### 📌 Featured Projects
