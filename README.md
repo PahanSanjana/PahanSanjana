@@ -69,16 +69,20 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pahansanjana&theme=dark&hide_border=false&cache_seconds=3600&v=2" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pahansanjana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </div>
+
+---
 
 ---
 ### 📌 Featured Projects
